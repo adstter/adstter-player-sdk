@@ -1,3 +1,3 @@
-# Adstter Player SDK
+# Adstter Player Javascript SDK
 
-Este proyecto permite la integración de aplicaciones de terceros con el Player de Adstter
+Este SDK permite la integración de aplicaciones de terceros con Javascript al player de Adstter
